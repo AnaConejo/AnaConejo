@@ -1,0 +1,39 @@
+/*Comentarios*/
+body {
+    background:linear-gradient(rgb(241, 251, 104),rgb(255, 255, 117),rgb(118, 202, 232),rgb(224, 146, 255),rgb(218, 225, 126),rgb(231, 174, 234),rgb(237, 243, 154));
+}
+h3{
+    color: rgb(149, 0, 255);
+}
+h1{
+    font:oblique bold 400% cursive;
+    color: rgb(20, 8, 18);
+    text-shadow: 12px 5px 6px blueviolet;
+    text-align: center;
+}
+.tarjeta{
+    background:linear-gradient( rgb(234, 199, 220),rgb(152, 248, 247));
+    border:10px solid rgb(149, 0, 255);
+    border-style: double;
+    margin:15px
+}
+#imagen1{
+    padding: 15px;
+    border: 15px solid rgb(240, 178, 215);
+    border-style: dashed;
+    width: 600px;
+    height: 450px;
+}
+p{
+    text-align: justify;
+}
+#title-Histora{
+    color:rgb(106, 31, 8);
+}
+
+#titulo-Favoritas{
+    color:rgb(113, 72, 12);
+}
+#titulo-formulario{
+    color:rgb(132, 23, 23);
+}
